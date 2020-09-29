@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+    <object model="testapp.employee" pk="1">
+        <field name="eno" type="IntegerField">4</field>
+        <field name="ename" type="CharField">Manish</field>
+        <field name="esal" type="FloatField">1000.12</field>
+        <field name="eaddr" type="CharField">I-2, 8/538, Sangam Vihar, New Delhi-80</field>
+    </object>
+    <object model="testapp.employee" pk="2">
+        <field name="eno" type="IntegerField">300</field>
+        <field name="ename" type="CharField">Sunny</field>
+        <field name="esal" type="FloatField">1000.0</field>
+        <field name="eaddr" type="CharField">Mumbai</field>
+    </object>
+    <object model="testapp.employee" pk="3">
+        <field name="eno" type="IntegerField">400</field>
+        <field name="ename" type="CharField">Pankaj</field>
+        <field name="esal" type="FloatField">1500.0</field>
+        <field name="eaddr" type="CharField">Delhi</field>
+    </object>
+    <object model="testapp.employee" pk="4">
+        <field name="eno" type="IntegerField">410</field>
+        <field name="ename" type="CharField">Kunal</field>
+        <field name="esal" type="FloatField">2000.0</field>
+        <field name="eaddr" type="CharField">Bangalore</field>
+    </object>
+    <object model="testapp.employee" pk="5">
+        <field name="eno" type="IntegerField">321</field>
+        <field name="ename" type="CharField">Himanshu</field>
+        <field name="esal" type="FloatField">3000.0</field>
+        <field name="eaddr" type="CharField">Hydrabad</field>
+    </object>
+    <object model="testapp.employee" pk="6">
+        <field name="eno" type="IntegerField">210</field>
+        <field name="ename" type="CharField">Shreef</field>
+        <field name="esal" type="FloatField">5000.0</field>
+        <field name="eaddr" type="CharField">Bihar</field>
+    </object>
+    <object model="testapp.employee" pk="7">
+        <field name="eno" type="IntegerField">700</field>
+        <field name="ename" type="CharField">Sumit</field>
+        <field name="esal" type="FloatField">7000.0</field>
+        <field name="eaddr" type="CharField">Chennai</field>
+    </object>
+    <object model="testapp.employee" pk="8">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Shashank</field>
+        <field name="esal" type="FloatField">10000.0</field>
+        <field name="eaddr" type="CharField">Chennai</field>
+    </object>
+</django-objects>

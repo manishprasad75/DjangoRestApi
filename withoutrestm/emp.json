@@ -1,0 +1,82 @@
+[
+{
+    "model": "testapp.employee",
+    "pk": 1,
+    "fields": {
+        "eno": 4,
+        "ename": "Manish",
+        "esal": 1000.12,
+        "eaddr": "I-2, 8/538, Sangam Vihar, New Delhi-80"
+    }
+},
+{
+    "model": "testapp.employee",
+    "pk": 2,
+    "fields": {
+        "eno": 300,
+        "ename": "Sunny",
+        "esal": 1000.0,
+        "eaddr": "Mumbai"
+    }
+},
+{
+    "model": "testapp.employee",
+    "pk": 3,
+    "fields": {
+        "eno": 400,
+        "ename": "Pankaj",
+        "esal": 1500.0,
+        "eaddr": "Delhi"
+    }
+},
+{
+    "model": "testapp.employee",
+    "pk": 4,
+    "fields": {
+        "eno": 410,
+        "ename": "Kunal",
+        "esal": 2000.0,
+        "eaddr": "Bangalore"
+    }
+},
+{
+    "model": "testapp.employee",
+    "pk": 5,
+    "fields": {
+        "eno": 321,
+        "ename": "Himanshu",
+        "esal": 3000.0,
+        "eaddr": "Hydrabad"
+    }
+},
+{
+    "model": "testapp.employee",
+    "pk": 6,
+    "fields": {
+        "eno": 210,
+        "ename": "Shreef",
+        "esal": 5000.0,
+        "eaddr": "Bihar"
+    }
+},
+{
+    "model": "testapp.employee",
+    "pk": 7,
+    "fields": {
+        "eno": 700,
+        "ename": "Sumit",
+        "esal": 7000.0,
+        "eaddr": "Chennai"
+    }
+},
+{
+    "model": "testapp.employee",
+    "pk": 8,
+    "fields": {
+        "eno": 800,
+        "ename": "Shashank",
+        "esal": 10000.0,
+        "eaddr": "Chennai"
+    }
+}
+]
