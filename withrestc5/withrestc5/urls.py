@@ -23,7 +23,14 @@ router = routers.DefaultRouter()
 router.register('api', EmployeeCRUDCBV, basename='api')
 
 
+#Authentication
+
+from rest_framework.authtoken import views
+
+
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('get-api-token/', views.obtain_auth_token, name='get-api-token'),
     path('', include(router.urls)) #for router
+
 ]
